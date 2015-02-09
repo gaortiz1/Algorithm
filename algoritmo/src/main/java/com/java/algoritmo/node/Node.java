@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.java.algoritmo.stack;
+package com.java.algoritmo.node;
 
 
 /**

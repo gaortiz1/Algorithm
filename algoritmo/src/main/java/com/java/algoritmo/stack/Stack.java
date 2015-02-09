@@ -6,6 +6,9 @@ package com.java.algoritmo.stack;
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
+import com.java.algoritmo.iterator.ListIterator;
+import com.java.algoritmo.node.Node;
+
 /**
  * @author alejandro
  *

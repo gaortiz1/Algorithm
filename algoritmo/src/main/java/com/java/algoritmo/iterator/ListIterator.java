@@ -1,10 +1,12 @@
 /**
  * 
  */
-package com.java.algoritmo.stack;
+package com.java.algoritmo.iterator;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
+
+import com.java.algoritmo.node.Node;
 
 /**
  * @author alejandro
